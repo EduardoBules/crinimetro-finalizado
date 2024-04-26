@@ -120,7 +120,7 @@ body {
 }
 
 body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR95ogIJGnsBY6tQbnxqprPf95AZdY-PLNgA&s);  
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR95ogIJGnsBY6tQbnxqprPf95AZdY-PLNgA&s');  
     background-repeat: no-repeat;  
     background-size:cover;
     
